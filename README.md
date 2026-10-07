@@ -1,0 +1,21 @@
+# Team Knowledge Base - Team Shema
+
+Welcome to our team knowledge base. We are learning Git and GitHub collaboration.
+
+## Team Members
+- Shema Kevin (Lead) - ShemaKevin970
+- Chukwuma N - Chukwuma-n
+- Stephen Muriu - Stephen-Dev254
+- Joseph Njoroge - Joseph-Dev254
+
+## VS Code Tips - Shema Kevin
+[Leave empty for your PR]
+
+## Git Tips - Chukwuma
+[Leave empty for Chukwuma PR]
+
+## Study Techniques - Stephen
+[Leave empty for Stephen PR]
+
+## Tools Overview - Joseph
+[Leave empty for Joseph PR]
