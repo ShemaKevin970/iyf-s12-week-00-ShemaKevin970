@@ -7,3 +7,12 @@ As a Season 12 student (0383), effective study has been key to mastering Git. My
 3.  **Pomodoro Technique:** 25 mins focused on one GitHub task (like Pages setup), then 5 mins break to avoid burnout.
    
 These methods helped me complete my profile repo `Stephen-Dev254` and my live site https://Stephen-Dev254.github.io successfully.
+
+
+## Section 3 - Git Tips - ### My Contribution: Git Tips for Week 00
+
+- Use `git status` regularly to check the state of your working tree.
+- Create a feature branch before making changes to a shared project.
+- Write clear and meaningful commit messages.
+- Pull the latest changes before starting new work.
+- Review your changes before committing and pushing.
